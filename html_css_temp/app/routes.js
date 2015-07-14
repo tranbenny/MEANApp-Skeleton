@@ -1,4 +1,4 @@
-var Person = require('./models/nerd');
+var Person = require('./models/person');
 
     module.exports = function(app) {
         // server routes
